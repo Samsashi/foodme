@@ -16,6 +16,11 @@ check out seed's README to understand what the scripts under `scripts/` are doin
 
 ---
 
+Tutorial Instructions
+https://docs.google.com/document/d/1Fzq60IBaSf5mnsLWhig5nhZ9cJT85sresp0NqNIwh1I/pub
+
+---
+
 Fix applied for the error encountered while running the web-server.bat
 
 Issue due to express module showing following error:
