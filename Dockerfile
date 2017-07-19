@@ -12,9 +12,9 @@ COPY package.json /usr/src/app/
 
 USER myuser
 #RUN yarn install
+RUN npm install
 
 COPY . /usr/src/app
-RUN npm install
 
 # Start the app
 CMD ["/usr/local/bin/npm", "start"]
